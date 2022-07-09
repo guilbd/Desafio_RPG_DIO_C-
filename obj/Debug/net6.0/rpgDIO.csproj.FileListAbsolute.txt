@@ -1,0 +1,15 @@
+G:\DIO\UNIMED\C\jogo_rpg\rpgDIO\bin\Debug\net6.0\rpgDIO.exe
+G:\DIO\UNIMED\C\jogo_rpg\rpgDIO\bin\Debug\net6.0\rpgDIO.deps.json
+G:\DIO\UNIMED\C\jogo_rpg\rpgDIO\bin\Debug\net6.0\rpgDIO.runtimeconfig.json
+G:\DIO\UNIMED\C\jogo_rpg\rpgDIO\bin\Debug\net6.0\rpgDIO.dll
+G:\DIO\UNIMED\C\jogo_rpg\rpgDIO\bin\Debug\net6.0\rpgDIO.pdb
+G:\DIO\UNIMED\C\jogo_rpg\rpgDIO\obj\Debug\net6.0\rpgDIO.csproj.AssemblyReference.cache
+G:\DIO\UNIMED\C\jogo_rpg\rpgDIO\obj\Debug\net6.0\rpgDIO.GeneratedMSBuildEditorConfig.editorconfig
+G:\DIO\UNIMED\C\jogo_rpg\rpgDIO\obj\Debug\net6.0\rpgDIO.AssemblyInfoInputs.cache
+G:\DIO\UNIMED\C\jogo_rpg\rpgDIO\obj\Debug\net6.0\rpgDIO.AssemblyInfo.cs
+G:\DIO\UNIMED\C\jogo_rpg\rpgDIO\obj\Debug\net6.0\rpgDIO.csproj.CoreCompileInputs.cache
+G:\DIO\UNIMED\C\jogo_rpg\rpgDIO\obj\Debug\net6.0\rpgDIO.dll
+G:\DIO\UNIMED\C\jogo_rpg\rpgDIO\obj\Debug\net6.0\refint\rpgDIO.dll
+G:\DIO\UNIMED\C\jogo_rpg\rpgDIO\obj\Debug\net6.0\rpgDIO.pdb
+G:\DIO\UNIMED\C\jogo_rpg\rpgDIO\obj\Debug\net6.0\rpgDIO.genruntimeconfig.cache
+G:\DIO\UNIMED\C\jogo_rpg\rpgDIO\obj\Debug\net6.0\ref\rpgDIO.dll
